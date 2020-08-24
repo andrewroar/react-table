@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "email": "SpongeBob@gmail.com",
+    "phone": "044444444",
+    "dob": "Fry Cook"
+  },
+  {
+    "id": 2,
+    "name": "Andrew",
+    "email": "Andrew@gmail.com",
+    "phone": "044444444",
+    "dob": "Fry Cook"
+  }
+]
